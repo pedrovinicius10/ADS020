@@ -3,7 +3,7 @@ package Modelo.entidades;
 import java.io.Serializable;
 
 
-public class Alunos implements Serializable {
+public class Aluno implements Serializable {
     
     private int id;
     private int matricula;
